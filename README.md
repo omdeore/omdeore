@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omdeore](https://github.com/omdeore)
 
-- 📝 I regularly write articles on [https://medium.com/@omdeoree16](https://medium.com/@omdeoree16)
+- 📝 I write articles on [https://medium.com/@omdeoree16](https://medium.com/@omdeoree16)
 
 - 💬 Ask me about **Linux**
 
