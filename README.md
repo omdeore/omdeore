@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/omdeore1216" target="blank"><img src="https://img.shields.io/twitter/follow/omdeore1216?logo=twitter&style=for-the-badge" alt="omdeore1216" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Node and Blockchain technologies**
+- 🌱 I’m currently learning more about **DevOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omdeore](https://github.com/omdeore)
 
